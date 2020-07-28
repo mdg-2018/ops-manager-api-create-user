@@ -7,3 +7,5 @@ Database users can be added/modified/remove by updating the automation config fo
 3. PUT the new automation config back to the project <code>putAutomationConfig.sh</code>
 
 That's it!
+
+Relevant documentation: https://docs.opsmanager.mongodb.com/current/reference/api/automation-config/
